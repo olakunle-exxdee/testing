@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel src/index.html",
     "dev": "parcel src/index.html",
-    "buidl": "parcel build src/index.html"
+    "build": "parcel build src/index.html"
   },
   "keywords": [],
   "author": "",
